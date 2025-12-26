@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🚀 Amazing Portfolio
 
 세상에서 가장 멋진 포트폴리오 웹사이트입니다! 현대적인 디자인과 부드러운 애니메이션으로 제작되었습니다.
@@ -93,3 +94,7 @@ amazing-portfolio/
 
 Made with ❤️ and React
 
+=======
+# frontend_portfolio_sample_3
+Just a sample
+>>>>>>> ffdaca0a25b1cbddc818b99763be143daa883ba2
